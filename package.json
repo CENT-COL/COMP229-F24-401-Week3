@@ -1,0 +1,14 @@
+{
+  "name": "my-npm-project",
+  "version": "1.0.0",
+  "description": "my first npm/node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago C.",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.7.0"
+  }
+}
